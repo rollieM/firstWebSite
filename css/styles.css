@@ -1,0 +1,24 @@
+body {
+  background-color: #FBF6F0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: groove;
+  border-color: #FFDA77;
+  height: 2px;
+  border-width: 1px;
+  width: 30%;
+}
+
+h1 {
+  color: #FAC213;
+}
+
+body {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
